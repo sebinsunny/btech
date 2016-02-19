@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Btech</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_create_order">Create Order</string>
+    <string name="title_activity_order">Order Activity</string>
+    <string name="action_share">Share</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_top"></string>
+    <string-array name="pizzas">
+        <item>Computer Science</item>
+        <item>Mechanical</item>
+        <item>Civil</item>
+        <item>Electronics</item>
+        <item>Electrical</item>
+    </string-array>
+    <string-array name="pasta">
+        <item>Computer Science</item>
+        <item>Mechanical</item>
+        <item>Civil</item>
+        <item>Electronics</item>
+        <item>Electrical</item>
+    </string-array>
+    <string-array name="stores">
+        <item>Upcoming Events</item>
+        <item>MG Result</item>
+        <item>MG Previous Year Result</item>
+    </string-array>
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Previous Year</item>
+        <item>Syllabus</item>
+        <item>News feed</item>
+    </string-array>
+
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="title_activity_image">Image</string>
+
+</resources>
